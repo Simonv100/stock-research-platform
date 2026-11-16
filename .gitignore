@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.streamlit/
+.venv/
+.env
+.env.*
+!.env.example
+*.py[cod]
+data/bookmarks.sqlite3*
+data/management_evidence.sqlite3*
+data/trade_checklist.sqlite3*
+data/volatility-pilot.sqlite3*
